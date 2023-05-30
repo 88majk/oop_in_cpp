@@ -1,0 +1,3 @@
+C:/Users/Mikołaj Gregorczyk/CLionProjects/projektPO/projektPO/cmake-build-debug/CMakeFiles/projektPO.dir
+C:/Users/Mikołaj Gregorczyk/CLionProjects/projektPO/projektPO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mikołaj Gregorczyk/CLionProjects/projektPO/projektPO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

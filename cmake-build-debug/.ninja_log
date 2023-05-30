@@ -1,0 +1,24 @@
+# ninja log v5
+27	719	6950877100249134	CMakeFiles/projektPO.dir/Bron.cpp.obj	5e7a81f4b4eefb65
+16	725	6950877100269078	CMakeFiles/projektPO.dir/Karabin.cpp.obj	23037809a43105d3
+1	811	6950877101156716	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+721	1154	6950877104687272	CMakeFiles/projektPO.dir/Czolg.cpp.obj	c63a0d62ba44075c
+725	1211	6950877105215866	CMakeFiles/projektPO.dir/Granat.cpp.obj	a5985aea33071ca2
+812	1265	6950877105785889	CMakeFiles/projektPO.dir/Samolot.cpp.obj	20e4093c88b6b1ce
+1154	1571	6950877108869853	CMakeFiles/projektPO.dir/Zolnierz.cpp.obj	1f6d677ab5e70944
+1572	1779	6950877110878809	projektPO.exe	4e9b74f8c9765efb
+7	937	6951383406169157	CMakeFiles/projektPO.dir/Granat.cpp.obj	a5985aea33071ca2
+13	959	6951383406308788	CMakeFiles/projektPO.dir/Zolnierz.cpp.obj	1f6d677ab5e70944
+4	1022	6951383407405846	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+938	1373	6951383410866599	CMakeFiles/projektPO.dir/Samolot.cpp.obj	20e4093c88b6b1ce
+1373	1811	6951383415238104	projektPO.exe	4e9b74f8c9765efb
+8	517	6951416149705188	CMakeFiles/projektPO.dir/Czolg.cpp.obj	c63a0d62ba44075c
+11	573	6951416150243750	CMakeFiles/projektPO.dir/Zolnierz.cpp.obj	1f6d677ab5e70944
+4	659	6951416151108725	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+659	855	6951416153048349	projektPO.exe	4e9b74f8c9765efb
+3	571	6951416615505359	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+572	758	6951416617349259	projektPO.exe	4e9b74f8c9765efb
+8	611	6951417215389473	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+612	791	6951417217150747	projektPO.exe	4e9b74f8c9765efb
+4	575	6951417783420596	CMakeFiles/projektPO.dir/main.cpp.obj	4b5a40347734b64a
+576	718	6951417784814400	projektPO.exe	4e9b74f8c9765efb
